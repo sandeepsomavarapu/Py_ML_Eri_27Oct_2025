@@ -1,0 +1,253 @@
+ 
+ Language:
+ 
+ PL:
+ 
+ 1989--Guido van rossam
+ 
+		feb 20th 1991
+ 
+	
+		public class Welcome{
+			
+			public static void main(String args[])
+			{
+			System.out.println("welcome to java");
+			}
+		
+		}
+
+
+	print("welcome to java")
+
+
+	dynamic typed 
+	
+	Cpython
+	
+	
+	indentation
+	
+	identifier
+			
+				a-z
+				A-Z
+				0-9
+				_
+				
+				
+	import keyword
+>>> keyword.kwlist
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 
+'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 
+'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return',
+ 'try', 'while', 'with', 'yield']
+ 
+ 
+ 
+ Datattypes
+ 
+	int
+	float
+	complex
+	bool
+	str
+	
+	
+	LIST
+	Tuple
+	set
+	frozenset
+	dict
+	
+	
+		
+		type()
+		id()
+		input()
+		
+		
+		int()
+		
+		
+		
+		
+	LIST:
+
+		group of objects as single entity
+		
+		1)duplicates are allowed 
+		2)insertion order is preserved 
+		3)homogeneous / heterogeneous
+		4)growable in nature
+		5)[]
+		6)muttable
+		
+	Tuple:
+			group of objects as single entity same like list except tuple is immutable
+		
+		1)duplicates are allowed 
+		2)insertion order is preserved 
+		3)homogeneous / heterogeneous
+		4)growable in nature
+		5)()
+		6)immutable
+		
+	
+	Set:
+
+	group of objects as single entity
+
+		1)duplicates are not allowed 
+		2)insertion order is not preserved 
+		3)homogeneous / heterogeneous allowed
+		4)growable in nature
+		5){}
+		6)muttable
+
+
+	FrozenSet:
+
+	group of objects as single entity
+
+		1)duplicates are not allowed 
+		2)insertion order is not preserved 
+		3)homogeneous / heterogeneous allowed
+		4)growable in nature
+		5)({})/ forzenset()
+		6)imuttable
+
+
+	dict:
+		to represent group objects as key,value
+		
+		1)entry-->key,value
+		
+		2)key must be unique values can be duplicate
+		
+		3){}
+		4)muttable
+		
+	
+	
+		.py
+		
+		pvm-->pyc
+		
+		
+		
+		
+		
+		
+		
+		
+
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 
+ 
+ 
+ 
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
