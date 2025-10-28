@@ -134,8 +134,109 @@
 		
 		pvm-->pyc
 		
+	oops	
+	
+
+		class Employee:
+			
+		variables
+		
+			instance 
+			static
+			local
+		
+		methods/function
+			instance
+			class 		@classmethod
+			static		@staticmethod
+			
+		constructor  __init__
 		
 		
+		
+		inheritance is-a
+		
+		
+		class Test
+		
+		
+		
+		
+		class Client(Test)
+		
+		
+		
+		Polymorphisam:
+		================
+		
+		Overriding:method name is same implementation is different 
+		
+		
+		ovarloading:
+		================
+		
+			print(10*20)
+			print("india"*3)indiaindiaindia
+		
+		
+		deposit(cash/check/dd)
+		
+		
+			operator overloading
+			method overloading:method name is same bu siganture is different 
+		
+		
+				m1(a)
+				m1(a,b,c)
+		
+		abc
+		@abstractmethod 
+		def m1(self):
+			pass
+		
+	Iterators:
+===============
+			
+			__iter__()
+			__next__()
+		
+		iterable
+		fruits=['apple','banana']
+		
+			iter(fruits)
+		
+	Genearator:
+	============
+		yield
+		
+	Design Patterns:
+======================
+		singleton pattern
+			single instance wtih global access
+		
+		Factory Pattern
+		
+		 will define interface for objects,let sub class decide which class
+		
+	Structural Pattern:
+=========================
+Decorator pattern
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
 		
 		
 		
